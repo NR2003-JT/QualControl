@@ -1,0 +1,7 @@
+bin/
+app/
+release/
+*.log
+*.ini
+CLAUDE.md
+*.before-claude-*
